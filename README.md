@@ -3,13 +3,19 @@ Recording audio, video and screen
 
 Find the application here: https://man-schu.github.io/jsrecorder/
 
-It even works without a webserver. If you want to try it, the best is to copy the whole  folder "recorder" to another place on your local PC and then just double click on index.html.
+It even works without a webserver. So, if you do not trust the github website, the best is to copy the whole  folder "recorder" to another place on your local PC and then just double click on index.html. However, if you have a look at the file types it is using, it is obvious that it is all running only on the local PC. Nothing is being stored on a server.
 
-If you have a look at the file types it is using, it is obvious that it is all running only on the local PC. Nothing stored on a server.
+Use cases are:
 
-You can use it for audio recording (for instance to save the audio of the unit meeting), video recording (for instance to grab a speech of yours) or for screen recording (for presentations, or if users want to show us an incident).
+* audio recording, for instance to save the audio of a meeting
+* video recording, for instance to grab a speech of yours
+* screen recording, for presentations, if users want to show an incident to their helpdesk etc.
 
-The downside is that it can only record in the webm format. Otherwise it would need additional software. Alternatively we might be able to offer a tool on a webserver to convert it into mp4 or mp3. The disadvantages of the webm format are the file size and that it is not so easy to jump to a specific moment when you reproduce it. However, for small files the filetype webm is ideal to embed in web pages as any modern browser can play it without the need of further software.
+The downside is that it can only record in the webm format. Otherwise it would need additional software.
+
+The disadvantages of the webm format are basically the file size and that it is not so easy to jump to a specific moment when you reproduce it.
+
+However, for small files the filetype webm is ideal to embed in web pages as any modern browser can play it without the need of further software.
 
 
 
