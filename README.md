@@ -3,7 +3,7 @@ Recording audio, video and screen
 
 Find the application here: https://man-schu.github.io/jsrecorder/
 
-It even works without a webserver. So, if you do not trust the github website, the best is to copy the whole  folder "recorder" to another place on your local PC and then just double click on index.html. However, if you have a look at the file types it is using, it is obvious that it is all running only on the local PC. Nothing is being stored on a server.
+It even works without a webserver. So, if you do not trust the Github website, the best is to copy the whole  folder "recorder" to another place on your local PC and then just double click on index.html. If you have a look at the file types it is using, it becomes obvious that it is all running only on the local PC within the browser environment.
 
 Use cases are:
 
